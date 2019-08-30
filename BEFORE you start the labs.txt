@@ -1,0 +1,8 @@
+In some cases, your instructor may have made o365/Power BI/accounts for you, for the sake of time.  Your instructor will guide you either way.
+
+If the instructor has not made the accounts, on Page 41 of the book (Module 1 lab), there is a link and directions to make this account yourself.  For time savings, use the link below:
+
+https://go.microsoft.com/fwlink/p/?LinkID=698279&culture=en-US&country=US
+
+
+
