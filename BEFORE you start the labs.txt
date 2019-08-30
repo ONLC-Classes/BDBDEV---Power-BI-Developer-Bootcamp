@@ -6,10 +6,13 @@ https://go.microsoft.com/fwlink/p/?LinkID=698279&culture=en-US&country=US
 
 =============
 ALSO: you will need the student files for class.
-After you download them, please put them into a directory called: C:\Student (you can open the .zip file and copy and paste them into that directory)
 
-The files can be downloaded here:
-https://github.com/CriticalPathTraining/PBD365/archive.master.zip
+1.  Please create a directory in your lab computer c:\Student
+2.  Download the lab files here:  https://github.com/CriticalPathTraining/PBD365/archive/master.zip (approx 2 min to download)
+3.  Open the .zip file and copy all the files (inside the master.zip file) to your student directory
+
+
+
 
 
 
