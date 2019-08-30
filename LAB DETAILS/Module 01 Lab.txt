@@ -1,1 +1,11 @@
-test
+GOTHCHAS FOR MOD 01 LAB
+
+Page 45, Exercise 2, Step #10 b - Your user account will be the default o365 trial account.
+
+Example:  username@onmicrosoft.com  
+
+Page 67, Exercise 6, Step #1 a - It is no longer VIEW INSIGHTS, it is QUICK INSIGHTS
+
+
+
+
